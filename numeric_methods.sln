@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "numeric_methods", "numeric_methods\numeric_methods.vcxproj", "{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Debug|x64.ActiveCfg = Debug|x64
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Debug|x64.Build.0 = Debug|x64
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Debug|x86.Build.0 = Debug|Win32
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Release|x64.ActiveCfg = Release|x64
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Release|x64.Build.0 = Release|x64
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Release|x86.ActiveCfg = Release|Win32
+		{E7C713BA-4BDC-4D3C-B6C3-3F7DAB5F6555}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B368C2-1EFE-472E-81BB-0681D2C0DC1A}
+	EndGlobalSection
+EndGlobal
